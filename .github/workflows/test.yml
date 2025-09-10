@@ -1,4 +1,5 @@
 name: Test
+# test用
 on:
   pull_request:                        # プルリクエストが作成されたら起動
     paths: ['go/**/*.go']              # ただしGoのファイル変更時のみ
