@@ -1,3 +1,4 @@
+# こんにちわ
 changelog:
   categories:            # リリースノートのカテゴリ設定
     - title: Enhancement # リリースノートへ「Enhancement」というカテゴリを作成する
